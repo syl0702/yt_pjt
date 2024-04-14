@@ -7,3 +7,6 @@
 ## Git 소개
 - data : 유튜브 프로젝트 분석을 위한 자막 전처리 및 중복, 음악 카테고리 제거한 df 정리
 - files: 유튜브 프로젝트 보고서 및 발표 자료
+
+## Tech
+<img src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
