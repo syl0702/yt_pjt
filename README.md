@@ -5,7 +5,7 @@
     - Team Leader/Subtitle Crawling/Analyze general tendency/Report Writing
 
 ## Git 소개
-- data : 유튜브 프로젝트 분석을 위한 자막 전처리 및 중복, 음악 카테고리 제거한 df 정리
+- data : Dataframe with subtitle preprocessing and duplicate and music category removal
 - files: 유튜브 프로젝트 보고서 및 발표 자료
 
 ## Data
