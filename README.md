@@ -7,6 +7,7 @@
 ## Git 소개
 - data : 자막 전처리 및 중복과 음악 카테고리 삭제한 데이터프레임. Dataframe with subtitle preprocessing and duplicate and music category removal
 - files: 유튜브 프로젝트 보고서 및 발표 자료. Youtube project report and presentation files
+- codes: 유튜브 프로젝트에서 활용한 코드 자료들. Codes written and used for the YouTube project
 
 ## Data
 ![image](https://github.com/syl0702/yt_pjt/assets/140361641/a9f84eb1-ff6a-4d6f-8bf9-58620d79523c)
@@ -19,10 +20,10 @@
 ![image](https://github.com/syl0702/yt_pjt/assets/140361641/67764c60-70e2-47ed-97fc-18d3f6e1b413)
 
 ## Target
-- Analyzing the trend through the trendings in YouTube.
-- Able to provide YouTube-mediated marketing information to companies.
-- Able to provide guideline to new YouTube Entrants based on the trend of each category.
-- Able to provide trending information to common users.
+- 유튜브 인기 급상승 동영상 분석을 통해 트렌드 분석하기. Analyzing the trend through the trendings in YouTube.
+- 기업들에게 유튜브를 매개로 한 마케팅 정보 제공하기. Able to provide YouTube-mediated marketing information to companies.
+- 각 카테고리별 트렌드에 기반해 유튜브 신규 진입자들에게 가이드라인 제공하기. Able to provide guideline to new YouTube Entrants based on the trend of each category.
+- 일반 사용자들에게 유튜브 트렌드 관련 정보 제공하기. Able to provide trending information to common users.
 
 ### 데이터 전처리
 - 자막 추출: 한국어가 있을 경우에는 한국어를 추출, 한국어 자막이 없을 경우 일본어나 영어가 있을 경우도 출력.
