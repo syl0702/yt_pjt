@@ -1,12 +1,12 @@
 # Youtube Analysis Project
 * Project Date: 2023/10/06 - 2023/10/29
-* Project Goal: Analyze YouTube’s trending videos in detail to identify trends in each category
+* Project Goal: 유튜브의 인기 급상승 동영상 분석을 통해 각 카테고리별 트렌드 파악. Analyze YouTube’s trending videos in detail to identify trends in each category
 - Project responsibilities
     - Team Leader/Subtitle Crawling/Analyze general tendency/Report Writing
 
 ## Git 소개
-- data : Dataframe with subtitle preprocessing and duplicate and music category removal
-- files: Youtube project report and presentation files
+- data : 자막 전처리 및 중복과 음악 카테고리 삭제한 데이터프레임. Dataframe with subtitle preprocessing and duplicate and music category removal
+- files: 유튜브 프로젝트 보고서 및 발표 자료. Youtube project report and presentation files
 
 ## Data
 ![image](https://github.com/syl0702/yt_pjt/assets/140361641/a9f84eb1-ff6a-4d6f-8bf9-58620d79523c)
