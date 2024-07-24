@@ -2,11 +2,11 @@
 * Project Date: 2023/10/06 - 2023/10/29
 * Project Goal: 유튜브의 인기 급상승 동영상 분석을 통해 각 카테고리별 트렌드 파악. Analyze YouTube’s trending videos in detail to identify trends in each category
 - Project responsibilities
-**이서연** : 팀장 Team Leader/자막 크롤링 Subtitle Crawling/전체 경향성 분석 Analyze general tendency/보고서 작성 Report Writing
-  김도형 : 음성 추출/ 자연어 처리/ 전체 경향성 분석
-  강민주: 한국어 전처리 및 번역 추출/ Entertainment 세부 분석/ 발표
-  김현정: 자막 추출/People & Blogs 세부 분석/ PPT 발표 자료 제작
-  박준범: 한국어 전처리/ Sports 세부 분석 
+  - **이서연** : 팀장 Team Leader/자막 크롤링 Subtitle Crawling/전체 경향성 분석 Analyze general tendency/보고서 작성 Report Writing
+  - 김도형 : 음성 추출/ 자연어 처리/ 전체 경향성 분석
+  - 강민주: 한국어 전처리 및 번역 추출/ Entertainment 세부 분석/ 발표
+  - 김현정: 자막 추출/People & Blogs 세부 분석/ PPT 발표 자료 제작
+  - 박준범: 한국어 전처리/ Sports 세부 분석 
 
 ## Git 소개
 - data : 자막 전처리 및 중복과 음악 카테고리 삭제한 데이터프레임. Dataframe with subtitle preprocessing and duplicate and music category removal
